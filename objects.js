@@ -1,5 +1,5 @@
 var playlist = {
-  
+  deafheaven : 'Baby Blue'
 };
 
 function updatePlaylist(playlist, artist, title) {
